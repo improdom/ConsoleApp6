@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <MimeTypes>
+    <MimeType fileExtension=".htm" type="text/html" />
+    <MimeType fileExtension=".html" type="text/html" />
+    <MimeType fileExtension=".css" type="text/css" />
+    <MimeType fileExtension=".png" type="image/png" />
+    <MimeType fileExtension=".jpg" type="image/jpg" />
+    <MimeType fileExtension=".js" type="text/javascript" />
+    <MimeType fileExtension=".ico" type="image/vnd.microsoft.icon" />
+    <MimeType fileExtension=".eot" type="application/vnd.ms-fontobject" />
+
+    <MimeType fileExtension=".application" type="application/x-ms-application" />
+    
+    <MimeType fileExtension=".deploy" type="application/octet-stream" />
+
+    <MimeType fileExtension=".vsto" type="application/x-ms-vsto" />
+
+    <MimeType fileExtension=".exe" type="application/octet-stream" />
+
+    <MimeType fileExtension=".manifest" type="application/manifest" />
+    <MimeType fileExtension=".msp" type="application/octet-stream" />
+    <MimeType fileExtension=".msu" type="application/octet-stream" />
+    
+  </MimeTypes>
+</Configuration>
